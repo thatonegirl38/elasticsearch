@@ -41,3 +41,4 @@ For example, to clear the cache for `myapp`:
 --------------------------------------------------
 POST /_security/privilege/myapp/_clear_cache
 --------------------------------------------------
+elasticsearch/x-pack/docs/en/rest-api/security/clear-privileges-cache.asciidoc
