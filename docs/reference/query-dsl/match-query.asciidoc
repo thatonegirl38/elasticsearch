@@ -9,7 +9,7 @@ provided text is analyzed before matching.
 
 The `match` query is the standard query for performing a full-text search,
 including options for fuzzy matching.
-
+elasticsearch/x-pack/docs/en/rest-api/security/clear-privileges-cache.asciidoc
 
 [[match-query-ex-request]]
 ==== Example request
